@@ -1,2 +1,2 @@
 echo 'hai durga'
-echo 'how are you'
+echo 'how are '
